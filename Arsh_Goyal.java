@@ -100,6 +100,9 @@ return Mini;
     }
 }
 
+  TC- O(nLogN)
+  SC- O(N)
+
 
 ```
 
@@ -109,5 +112,7 @@ Note- 1. Whenever we have to convert All array elemnets to some value remember t
       4. Use Long.Max_Value if Long is in useCase.  
 
 ```
+
+=============================================================================================================================================
    
  */
