@@ -34,6 +34,11 @@
            for(List<a>val : map.values()){
 
             
-           }              
+           }
+           
+           
+    4. To convert number characters to number we can use (char - '0') because ascii value of '0' is 48
+    5  To check character is Digit or not  use Character.isDigit(char)
+       
 */
  
