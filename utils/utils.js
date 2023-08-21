@@ -40,5 +40,16 @@
     4. To convert number characters to number we can use (char - '0') because ascii value of '0' is 48
     5  To check character is Digit or not  use Character.isDigit(char)
        
+
+
+ 6. Collections.reverse(list) .. we can reverse any list like data-structure Eg- ArrayList, LinkedList..
+    Eg- Collections.reverse(mylist);
+    tc- o(n)
+
+
+ 7. Arrays.asList(i, j)  ->> If we want to store a arraylist of making two integers we can add a direct arraylist as Arrays.asList(i , j, k )
+
+ 8. In strings always use equals function .. dont try to use == because equals function deals  with object referencing matchings while equls deals with content matching.  
+ 
 */
  
