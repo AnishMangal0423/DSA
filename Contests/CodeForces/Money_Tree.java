@@ -1,4 +1,4 @@
-package Contests.CodeForces;
+// package Contests.CodeForces;
 
 import java.util.ArrayList;
 import java.util.Scanner;

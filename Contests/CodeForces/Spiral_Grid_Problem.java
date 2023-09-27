@@ -124,7 +124,7 @@ Observation-
            Code-
  */             
 
- package Contests.CodeForces;
+//  package Contests.CodeForces;
 import java.util.*;
 
 public class Spiral_Grid_Problem{
