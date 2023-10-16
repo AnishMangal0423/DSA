@@ -187,5 +187,3 @@ public class Spiral_Grid_Problem{
     }
 }
 
-
-

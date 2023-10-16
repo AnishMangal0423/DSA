@@ -50,6 +50,22 @@
  7. Arrays.asList(i, j)  ->> If we want to store a arraylist of making two integers we can add a direct arraylist as Arrays.asList(i , j, k )
 
  8. In strings always use equals function .. dont try to use == because equals function deals  with object referencing matchings while equls deals with content matching.  
+
+
+  9. To Calculate nCr in o(R)  time we uses this formula-
+
+       public long Combination(int n, int r){
+
+        // Calculating nCr By Smart Formula ..
+        long result=1;
+
+        for(int i=0; i< r; i++) result=result*(n-i)/(i+1);
+
+        return result;
+        
+    }
+
+
  
 */
  
